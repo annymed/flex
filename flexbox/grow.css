@@ -1,0 +1,12 @@
+.item2{
+background-color: cyan;
+flex-grow:1 ;
+}
+.container{
+    width: 100%;
+    border:1 px solid #ccc ;
+    display: flex;
+}
+.box{
+    height: 15px; 
+}
